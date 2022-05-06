@@ -26,7 +26,7 @@ Sitio de prueba para ver cómo Google responde ante distinto tipo de estímulos 
 - **Modo de testear:** Si la página dia-de-los-muertos.html aparece en el índice de Google, entonces Google indexa páginas nuevas desde su link en una imagen.
 - **Resultado:** no hay resultado aún
 
-### Prueba 4 - Interliking via JavaScript
-- **Objetivo:** Ver si Google indexa una página interlinkeada desde un enlace agregado con JavaScript.
-- **Modo de testear:** Si la página 5-de-mayo.html aparece en el índice de Google, entonces Google indexa páginas nuevas desde su link agregado con JavaScript.
+### Prueba 4 - Interliking via jQuery
+- **Objetivo:** Ver si Google indexa una página interlinkeada desde un enlace agregado con jQuery.
+- **Modo de testear:** Si la página 5-de-mayo.html aparece en el índice de Google, entonces Google indexa páginas nuevas desde su link agregado con jQuery.
 - **Resultado:** no hay resultado aún
