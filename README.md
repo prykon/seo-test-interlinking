@@ -20,5 +20,5 @@ Sitio de prueba para ver cómo Google responde ante distinto tipo de estímulos 
 ### Prueba 2
 
 ### Prueba 3 - Interlinking via imagen 
-**Objetivo:** Ver si Google indexa una página interlinkeada desde una imagen únicamente.
-**Modo de testear:** Si la página dia-de-los-muertos.html aparece en el índice de Google, entonces Google indexa páginas nuevas desde su link en una imagen.
+- **Objetivo:** Ver si Google indexa una página interlinkeada desde una imagen únicamente.
+- **Modo de testear:** Si la página dia-de-los-muertos.html aparece en el índice de Google, entonces Google indexa páginas nuevas desde su link en una imagen.
